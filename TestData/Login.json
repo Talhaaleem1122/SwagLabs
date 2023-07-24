@@ -1,0 +1,11 @@
+{
+  "credentials": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+
+  "bowser": {
+    "bowser": "chrome"
+  }
+
+}
